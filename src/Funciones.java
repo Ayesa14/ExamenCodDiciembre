@@ -65,7 +65,7 @@ public class Funciones {
      * metodo que valida que el numero de rondas no supere 10
      * @param contadorRondas
      * @param rondasPartida
-     * @return
+     * @return numero de rondas actual
      */
     public boolean validarRondas(int contadorRondas, int rondasPartida){
 
